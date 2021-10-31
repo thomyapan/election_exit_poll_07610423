@@ -1,5 +1,4 @@
 import 'package:election_exit_poll_07610423/pages/poll_page.dart';
-import 'package:election_exit_poll_07610423/pages/test.dart';
 import 'package:flutter/material.dart';
 
 void main() {
